@@ -1,0 +1,7 @@
+{
+    output: "evaluatory-results",
+    maxConnections: 8,
+    openResults: false,
+    sitemap: "https://www.pcna.com/data/default/FullXMLFeed/AutomatedXMLSiteMap_1_2_0.xml",
+    modules: ["base", "axe-core", "html-validate", "screenshot"]
+  }
